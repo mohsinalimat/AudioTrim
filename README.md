@@ -1,6 +1,6 @@
 # AudioTrim
 
-Call below methods.
+Call the below methods for audio file trim.
 ```
 - (BOOL)exportAsset:(NSURL *)audioFileInput {
     
